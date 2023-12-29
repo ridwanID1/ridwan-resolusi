@@ -2,5 +2,5 @@ ridwan resolusi
 -konsisten membuat project
 -membuat platform
 -membuat aplikasi chat
--membuat aplikasi video call
+-membuat aplikasi
 -kolaborasi
