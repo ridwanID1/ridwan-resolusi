@@ -5,3 +5,4 @@ ridwan resolusi
 -membuat aplikasi
 -kolaborasi
 -bahaya
+ini tambahan oleh branch fitur 2 ya
