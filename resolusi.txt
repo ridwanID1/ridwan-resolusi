@@ -4,3 +4,4 @@ ridwan resolusi
 -membuat aplikasi chat
 -membuat aplikasi
 -kolaborasi
+-bahaya
